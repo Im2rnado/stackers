@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928263899096",
+    "project_id": "stackers-app",
+    "storage_bucket": "stackers-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928263899096:android:9e354041ea7addee8f14ad",
+        "android_client_info": {
+          "package_name": "com.bedro.stackers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928263899096-al1bidnag7cto9lushm9uhdqjv140o2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXp1D9Zy3YuD-3LlgzhHQFcdcPZtQygw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928263899096-al1bidnag7cto9lushm9uhdqjv140o2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
