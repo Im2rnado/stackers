@@ -1,7 +1,7 @@
 name: stackers
 description: A new Flutter setup application for starting a project.
 
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.1+2
 
@@ -59,13 +59,15 @@ dependencies:
   country_currency_pickers: ^2.0.0
   dropdown_search: ^5.0.3
 
-
-
-
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+dependency_overrides:
+  modal_bottom_sheet:
+    git:
+      url: https://github.com/danReynolds/modal_bottom_sheet.git
+      path: modal_bottom_sheet
 
 flutter:
   uses-material-design: true
