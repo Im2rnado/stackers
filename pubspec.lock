@@ -834,12 +834,10 @@ packages:
     source: hosted
     version: "1.0.2"
   modal_bottom_sheet:
-    dependency: transitive
-    description:
-      name: modal_bottom_sheet
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.0.1"
+    git:
+      url: "https://github.com/followthemoney1/modal_bottom_sheet.git"
+      ref: main
+      path: modal_bottom_sheet
   nested:
     dependency: transitive
     description:
