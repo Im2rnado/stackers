@@ -834,12 +834,14 @@ packages:
     source: hosted
     version: "1.0.2"
   modal_bottom_sheet:
-    dependency: transitive
+    dependency: "direct overridden"
     description:
-      name: modal_bottom_sheet
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "2.0.1"
+      path: modal_bottom_sheet
+      ref: HEAD
+      resolved-ref: d79185a564c6d1b1535568ea7dfef060e20a049d
+      url: "https://github.com/danReynolds/modal_bottom_sheet.git"
+    source: git
+    version: "2.1.2"
   nested:
     dependency: transitive
     description:

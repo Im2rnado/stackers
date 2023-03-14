@@ -58,6 +58,7 @@ dependencies:
   flutter_downloader: ^1.8.0+1
   country_currency_pickers: ^2.0.0
   dropdown_search: ^5.0.3
+  file: ^6.1.4
 
 dev_dependencies:
   flutter_test:
